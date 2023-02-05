@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dasha
 - 👀 I’m interested in new opportunities, new knowledge and World's development 
-- 🌱 I’m currently learning Redax
+- 🌱 I’m currently learning Redux
 - 📫 How to reach me battybarclay@gmail.com
 
 <!---
